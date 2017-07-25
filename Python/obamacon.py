@@ -30,11 +30,15 @@ recolored = []
 
 for x in image_list:
 	intensity= x[0]+ x[1]+ x[2]
-	if inte > 180 and inte < 364
-	recolored.append(red)
-	if inte <182 
-	recolored.append(darkBlue)
-	if inte <365 and inte <546
+	if inte > 180 and inte < 364:
+		recolored.append(red) 
+	print (x)
+	if inte <182: 
+		recolored.append(darkBlue)
+	print(x)
+	if inte <365 and inte <546:
+		recolored.append(lightBlue)
+	print (x)
 
 #**************************************************#
 #**************************************************#
